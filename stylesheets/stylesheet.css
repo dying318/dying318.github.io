@@ -104,11 +104,11 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
-  width: 179px;
-  padding: 12px 8px 12px 8px;
+  float: right;
+  width: 149px;
+  padding: 8px 4px 8px 4px;
   margin-right: 14px;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: bold;
   line-height: 25px;
   color: #303030;
@@ -149,7 +149,7 @@ a.button:hover {
 a.button span {
   display: block;
   height: 23px;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 #download-zip span {
@@ -317,6 +317,8 @@ footer {
   font-size: 13px;
   color: #aaa;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
+  vertical-align: center;
+  line-height: 41px;
 }
 
 footer a {
